@@ -1,0 +1,7 @@
+.temp/
+/node_modules/
+/dist/
+/html&css/
+*.zip
+.idea
+.DS_Store
